@@ -1,2 +1,2 @@
-# Pokehetic
+# Poketic
 Pékedex React JS
