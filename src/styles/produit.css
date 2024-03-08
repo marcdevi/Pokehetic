@@ -1,0 +1,41 @@
+
+  .sticky{
+  /*Main propeties*/
+  position:sticky;
+  top: 2px;
+  /*Others*/
+  background-color: rgb(9, 6, 110);
+  color: #fff;
+  padding: 16px;
+  text-align:center;
+  font-size:18px;
+  margin-bottom: 90px;
+  }
+.badge{
+    color: #fff  !important;
+    background-color: yellow;
+    margin-left: 30px;
+    margin-right: 30px;
+   
+}
+.card{
+    margin-bottom: 150px;
+}
+ 
+div.a {
+    position: relative;
+    width: 100%;
+    border: 3px solid red;
+    height: 100%;
+  }
+  
+  div.b {
+    position: absolute;
+    left: -10px;
+    width: 100px;
+    height: 100%;
+    
+  } 
+  
+
+
