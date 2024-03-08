@@ -16,7 +16,6 @@ class Login extends Component {
     <div class="col-3">
         <label for="identifier" class="form-label">identifiant</label>
         <input class="form-control" id="identifier" />
- 
    
     <label for="exampleFormControlInput1" class="form-label">Email address</label>
     <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com"/>
