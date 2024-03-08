@@ -1,15 +1,13 @@
-import React, { Component } from "react";
+import React from "react";
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
-import '../src/styles/produit.css';
-import Logo from '../src/images/pokemon_article.png';
+import '../../src/styles/produit.css';
+import Logo from '../../src/images/pokemon_article.png';
 import Badge from 'react-bootstrap/Badge';
 import Button from 'react-bootstrap/Button';
 
-class Pokemon extends Component {
-  render() {
-    
+function Pokemon(){
 
     return (
         <div className="Test">
@@ -49,7 +47,6 @@ class Pokemon extends Component {
  
        </div>
     );
-  }
 }
 
 export default Pokemon;
